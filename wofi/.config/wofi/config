@@ -1,0 +1,8 @@
+prompt= 
+insensitive=true
+allow_images=true
+width=500
+height=300
+term=alacritty
+hide_scroll=true
+no_actions=true

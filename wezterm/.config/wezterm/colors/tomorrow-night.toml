@@ -1,0 +1,37 @@
+[colors]
+ansi = [
+    '#0d0d0d',
+    '#cc6666',
+    '#b5bd68',
+    '#f0c674',
+    '#81a2be',
+    '#c9b4cf',
+    '#8abeb7',
+    '#c5c8c6',
+]
+
+brights = [
+    '#494949',
+    '#d88c8c',
+    '#c7cd8d',
+    '#f3d496',
+    '#a0b9ce',
+    '#d6c6db',
+    '#a7cec9',
+    '#ffffff',
+]
+
+background = '#1d1f21'
+foreground = '#c5c8c6'
+
+cursor_bg = '#81a2be'
+cursor_border = '#81a2be'
+cursor_fg = '#3f3f3f'
+
+selection_bg = '#c5c8c6'
+selection_fg = '#3f3f3f'
+
+[colors.indexed]
+
+[metadata]
+name = 'tomorrow-night'

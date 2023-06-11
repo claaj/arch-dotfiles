@@ -1,0 +1,80 @@
+{
+    "layer": "top",
+    "position": "top",     
+    "height": 30, 
+    "spacing": 8, 
+    
+    "modules-left": ["wlr/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["idle_inhibitor", "backlight", "pulseaudio", "battery", "tray"],
+
+    "sway/workspaces": {
+        "format": "{icon}",
+    },
+
+    "wlr/workspaces": {
+        "format": "{icon}",
+	"on-scroll-up": "hyprctl dispatch workspace e-1",
+     	"on-scroll-down": "hyprctl dispatch workspace e+1",
+    },
+
+    "tray": {
+        "icon-size": 16,
+        "spacing": 10,
+    },
+    
+    "clock": {
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%a, %d-%m-%Y}",
+        "format": "{:%H:%M}",
+    },
+
+    "backlight": {
+        "format": "{icon} {percent}%",
+        "format-icons": ["", "", "", "", "", "", "", "", ""],
+    },
+
+    "battery": {
+        "states": {
+            // "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon} {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{time} {icon}",
+        // "format-good": "", // An empty format will hide the module
+        // "format-full": "",
+        "format-icons": ["", "", "", "", ""]
+    },
+
+    "pulseaudio": {
+        // "scroll-step": 1, // %, can be a float
+        //"format": "{volume}% {icon} {format_source}",
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "{volume}% {icon}",
+        "format-bluetooth-muted": "  {icon}",
+        "format-muted": " {volume}%",
+        //"format-source": " {volume}% ",
+        //"format-source": " ",
+        //"format-source-muted": " ",
+        "format-icons": {
+            "headphone": [" ", " ", " 󰕾"," "],
+            //"hands-fpulseaudio            //"headset": "",
+            //"phone": "",
+            //"portable": "",
+            //"car": "",
+            "default": ["", "", "󰕾",""]
+        },
+    },
+
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+}
+

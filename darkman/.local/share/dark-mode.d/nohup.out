@@ -1,0 +1,575 @@
+[2023-06-04 17:00:26.041] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:00:26.041] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:00:26.053] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:00:26.066] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:131553): WARNING **: 17:00:26.069: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131553): WARNING **: 17:00:26.069: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131553): WARNING **: 17:00:26.069: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131553): WARNING **: 17:00:26.069: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131553): WARNING **: 17:00:26.069: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:00:37.668] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:00:37.668] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:00:37.680] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:00:37.693] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:131746): WARNING **: 17:00:37.696: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131746): WARNING **: 17:00:37.696: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131746): WARNING **: 17:00:37.696: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131746): WARNING **: 17:00:37.696: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131746): WARNING **: 17:00:37.696: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:00:39.804] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:00:39.804] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:00:39.817] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:00:39.831] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:131823): WARNING **: 17:00:39.834: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131823): WARNING **: 17:00:39.834: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131823): WARNING **: 17:00:39.834: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131823): WARNING **: 17:00:39.834: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131823): WARNING **: 17:00:39.834: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:00:41.078] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:00:41.078] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:00:41.091] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:00:41.104] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:131904): WARNING **: 17:00:41.106: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131904): WARNING **: 17:00:41.107: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131904): WARNING **: 17:00:41.107: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131904): WARNING **: 17:00:41.107: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131904): WARNING **: 17:00:41.107: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:00:42.014] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:00:42.014] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:00:42.027] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+
+** (waybar:131983): WARNING **: 17:00:42.042: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131983): WARNING **: 17:00:42.042: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131983): WARNING **: 17:00:42.042: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131983): WARNING **: 17:00:42.042: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:131983): WARNING **: 17:00:42.042: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:00:42.044] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+[2023-06-04 17:00:42.044] [error] Item '': No icon name or pixmap given.
+[2023-06-04 17:00:42.855] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:00:42.856] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:00:42.869] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:00:42.882] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:132062): WARNING **: 17:00:42.885: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:132062): WARNING **: 17:00:42.885: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:132062): WARNING **: 17:00:42.885: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:132062): WARNING **: 17:00:42.885: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:132062): WARNING **: 17:00:42.885: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:04:55.284] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:04:55.284] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:04:55.296] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:04:55.310] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:04:55.313: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:04:55.313: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:04:55.313: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:04:55.313: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:04:55.313: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:15.236] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:15.238: Invalid id 2 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:15.253] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:15.253] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:15.271] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:15.278] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:15.280: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:15.280: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:15.280: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:15.280: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:15.280: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:16.730] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:16.731: Invalid id 4 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:16.747] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:16.747] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:16.766] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:16.772] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:16.775: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:16.775: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:16.775: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:16.775: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:16.775: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:17.541] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:17.541: Invalid id 6 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:17.561] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:17.561] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:17.578] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:17.584] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:17.586: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:17.586: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:17.586: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:17.586: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:17.586: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:18.812] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:18.813: Invalid id 8 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:18.827] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:18.827] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:18.844] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:18.852] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:18.853: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:18.853: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:18.854: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:18.854: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:18.854: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:21.815] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:21.815: Invalid id 10 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:21.830] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:21.830] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:21.851] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:21.858] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:21.860: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:21.861: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:21.861: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:21.861: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:21.861: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:31.914] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:31.915: Invalid id 12 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:31.941] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:31.941] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:31.972] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:31.978] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:31.988: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:31.988: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:31.988: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:31.988: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:31.988: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:33.694] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:33.695: Invalid id 14 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:33.717] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:33.717] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:33.737] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:33.746] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:33.749: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:33.749: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:33.749: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:33.749: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:33.749: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:37.462] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:37.466: Invalid id 16 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:37.481] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:37.481] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:37.502] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:37.514] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:37.518: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:37.518: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:37.518: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:37.518: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:37.519: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:38.895] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:38.895: Invalid id 18 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:38.910] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:38.910] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:38.928] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:38.933] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:38.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:38.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:38.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:38.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:38.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:40.632] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:40.643: Invalid id 20 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:40.674] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:40.674] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:40.696] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:40.705] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:40.710: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:40.710: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:40.710: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:40.710: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:40.710: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:42.110] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:42.111: Invalid id 22 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:42.128] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:42.128] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:42.165] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:42.174] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:42.188: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:42.188: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:42.188: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:42.188: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:42.189: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:45.087] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:45.103: Invalid id 24 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:45.119] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:45.119] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:45.153] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:45.159] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:45.169: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:45.170: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:45.170: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:45.171: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:45.171: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:48.758] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:48.758: Invalid id 26 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:48.795] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:48.795] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:48.819] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:48.827] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:48.830: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:48.830: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:48.830: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:48.830: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:48.830: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:51.492] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:51.499: Invalid id 28 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:51.524] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:51.524] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:51.549] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:51.557] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:51.564: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:51.564: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:51.564: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:51.564: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:51.564: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:05:54.442] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:05:54.452: Invalid id 30 passed to g_bus_unwatch_name()
+[2023-06-04 17:05:54.471] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:05:54.471] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:05:54.491] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:05:54.500] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:05:54.502: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:54.503: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:54.503: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:54.503: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:05:54.503: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:06:01.000] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:06:01.000: Invalid id 32 passed to g_bus_unwatch_name()
+[2023-06-04 17:06:01.020] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:06:01.021] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:06:01.040] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:06:01.048] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:06:01.054: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:01.054: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:01.054: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:01.054: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:01.054: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:06:03.125] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:06:03.130: Invalid id 34 passed to g_bus_unwatch_name()
+[2023-06-04 17:06:03.148] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:06:03.148] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:06:03.173] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:06:03.181] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:06:03.189: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:03.189: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:03.190: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:03.190: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:03.190: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:06:04.219] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:06:04.219: Invalid id 36 passed to g_bus_unwatch_name()
+[2023-06-04 17:06:04.238] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:06:04.238] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:06:04.257] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:06:04.270] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:06:04.273: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:04.274: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:04.274: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:04.274: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:06:04.274: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:07:45.066] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:07:45.075: Invalid id 38 passed to g_bus_unwatch_name()
+[2023-06-04 17:07:45.097] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:07:45.097] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:07:45.136] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:07:45.146] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:07:45.149: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:45.149: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:45.149: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:45.149: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:45.149: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:07:46.584] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:07:46.585: Invalid id 40 passed to g_bus_unwatch_name()
+[2023-06-04 17:07:46.594] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:07:46.595] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:07:46.618] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:07:46.625] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:07:46.636: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:46.636: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:46.636: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:46.636: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:46.636: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:07:48.278] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:07:48.279: Invalid id 42 passed to g_bus_unwatch_name()
+[2023-06-04 17:07:48.300] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:07:48.300] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:07:48.313] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:07:48.321] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:07:48.323: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:48.323: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:48.323: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:48.323: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:48.323: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:07:49.882] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:07:49.882: Invalid id 44 passed to g_bus_unwatch_name()
+[2023-06-04 17:07:49.899] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:07:49.900] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:07:49.926] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:07:49.932] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:07:49.941: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:49.941: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:49.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:49.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:49.942: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:07:51.390] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:07:51.391: Invalid id 46 passed to g_bus_unwatch_name()
+[2023-06-04 17:07:51.408] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:07:51.408] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:07:51.427] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:07:51.437] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:07:51.441: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:51.442: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:51.442: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:51.442: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:51.442: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:07:57.702] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:07:57.702: Invalid id 48 passed to g_bus_unwatch_name()
+[2023-06-04 17:07:57.717] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:07:57.717] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:07:57.740] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:07:57.745] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:07:57.751: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:57.751: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:57.751: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:57.751: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:07:57.751: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:10:24.318] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:10:24.322: Invalid id 50 passed to g_bus_unwatch_name()
+[2023-06-04 17:10:24.371] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:10:24.371] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:10:24.429] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:10:24.436] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:10:24.439: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:10:24.439: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:10:24.439: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:10:24.439: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:10:24.439: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:11:58.148] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:11:58.154: Invalid id 52 passed to g_bus_unwatch_name()
+[2023-06-04 17:11:58.175] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:11:58.175] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:11:58.199] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:11:58.210] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:11:58.223: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:11:58.223: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:11:58.223: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:11:58.223: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:11:58.223: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:15:38.573] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:15:38.574: Invalid id 54 passed to g_bus_unwatch_name()
+[2023-06-04 17:15:38.594] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:15:38.594] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:15:38.624] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:15:38.629] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:15:38.638: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:38.638: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:38.638: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:38.638: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:38.638: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2023-06-04 17:15:41.657] [info] Reloading...
+
+(waybar:133652): GLib-GIO-WARNING **: 17:15:41.677: Invalid id 56 passed to g_bus_unwatch_name()
+[2023-06-04 17:15:41.704] [info] Using configuration file /home/maquinola/.config/waybar/config
+[2023-06-04 17:15:41.704] [info] Using CSS file /home/maquinola/.config/waybar/style.css
+[2023-06-04 17:15:41.727] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2023-06-04 17:15:41.737] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+
+** (waybar:133652): WARNING **: 17:15:41.741: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:41.741: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:41.741: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:41.741: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:133652): WARNING **: 17:15:41.741: Status Notifier Item with bus name ':1.200' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
